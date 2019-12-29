@@ -1,20 +1,20 @@
 # exercises: Genomics Analysis with R
 
-**1. [Sequence Alignment](#sequence-alignment)**
+1. [Sequence Alignment](#sequence-alignment)
 
-**2. [Molecular Phylogeny with ClustalW](#Molecular-Phylogeny-with-ClustalW)**
+**2. [Molecular Phylogeny with ClustalW](#molecular-phylogeny-with-clustalw)**
 
-**3. [Examine Taxonomy Data](#Examine-Taxonomy-Data)**
+**3. [Examine Taxonomy Data](#examine-taxonomy-data)**
 
-**4. [Learn the Functions of the Sequences with BLAST](#Learn-the-Functions-of-the-Sequences-with-BLAST)**
+**4. [Learn the Functions of the Sequences with BLAST](#learn-the-functions-of-the-sequences-with-blast)**
 
-**5. [Investigate Protein Domains Structure](#Investigate-Protein-Domains-Structure)**
+**5. [Investigate Protein Domains Structure](#investigate-protein-domains-structure)**
 
-**6. [Identify the Protein Domain with Its Amino Acid Composition](#Identify-the-Protein-Domain-with-Its-Amino-Acid-Composition)**
+**6. [Identify the Protein Domain with Its Amino Acid Composition](#identify-the-protein-domain-with-its-amino-acid-composition)**
 
-**7. [Explore NCBI database](#Explore-NCBI-database)**
+**7. [Explore NCBI database](#explore-ncbi-database)**
 
-**8. [Find CpG Islands](#Find-CpG-Islands)**
+**8. [Find CpG Islands](#dind-cpg-islands)**
 
 # Sequence Alignment 
 [sequence alignment](https://github.com/leungman426/Genomics-analysis-in-R/blob/master/1_sequence_alignment.R)

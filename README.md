@@ -1,6 +1,6 @@
 # exercises: Genomics Analysis with R
 
-**1. [Sequence Alignment](#Sequence-Alignment)**
+**1. [Sequence Alignment](#sequence-alignment)**
 
 **2. [Molecular Phylogeny with ClustalW](#Molecular-Phylogeny-with-ClustalW)**
 
